@@ -36,8 +36,10 @@
 module ForSyDe.Shallow(module ForSyDe.Shallow.CoreLib
               , module ForSyDe.Shallow.MoCLib
               , module ForSyDe.Shallow.UtilityLib
+	      , module ForSyDe.Shallow.Patterns
 	      ) where
 
 import ForSyDe.Shallow.CoreLib
 import ForSyDe.Shallow.MoCLib
 import ForSyDe.Shallow.UtilityLib
+import ForSyDe.Shallow.Patterns
